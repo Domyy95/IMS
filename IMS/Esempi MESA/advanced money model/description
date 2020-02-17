@@ -1,0 +1,1 @@
+Let’s add a simple spatial element to our model by putting our agents on a grid and make them walk around at random. Instead of giving their unit of money to any random agent, they’ll give it to an agent on the same cell.
